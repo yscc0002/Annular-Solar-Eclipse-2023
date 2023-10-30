@@ -1,6 +1,6 @@
-# Solar Eclipse Data Analysis
+# Annular Solar Eclipse 2023
 
-![Eclipse](eclipse_image.jpg)
+![Eclipse]([eclipse_image.jpg](https://drive.google.com/file/d/1TyE8Z3WBShYndb-T_lSV96ygVIdesgDP/view?usp=sharing))
 
 I conducted measurements of light intensity and temperature before, during, and after a solar eclipse, meticulously documenting the associated timeframes. These data unveil the effects of eclipses on Earth's luminosity and temperature.
 
@@ -10,17 +10,8 @@ I conducted measurements of light intensity and temperature before, during, and 
 - **Temperature:** Recorded in Celsius.
 - **Timezone:** UTC-4
 
-## Results
-
-Explore the results and code used in this project:
-
-- [Data Analysis](analysis/analysis.ipynb)
-- [Python Script](scripts/data_collection.py)
-- [Arduino Code](arduino/eclipse_sensor.ino)
-- [Comprehensive Documentation](docs/documentation.md)
-
 ## Author
 
-This data was collected and analyzed by [Yoel Castillo](https://github.com/AstroYoelSamuel).
+This data was collected and analyzed by [Yoel Castillo](https://github.com/yscc0002).
 
 🌌🔍
