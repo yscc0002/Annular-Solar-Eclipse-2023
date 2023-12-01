@@ -6,10 +6,6 @@ I conducted measurements of light intensity and temperature before, during, and 
 
 - **Light Intensity:** Measurements were taken on a scale from 0 to 1023.
 - **Temperature:** Recorded in Celsius.
-- **Timezone:** UTC-4
+- **Timezone:** UTC-4.
 
-## Author
-
-This data was collected and analyzed by [Yoel Castillo](https://github.com/yscc0002).
-
-🌌🔍
+### Enjoy!
