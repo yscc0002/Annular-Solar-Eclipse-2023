@@ -1,4 +1,4 @@
-<img src="https://github.com/yscc0002/Annular-Solar-Eclipse-2023/tree/main/MEDIA" width="200">
+<img src="MEDIA/PATCH.png" width="200">
 
 # Annular Solar Eclipse 2023
 
