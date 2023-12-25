@@ -11,3 +11,7 @@ I conducted measurements of light intensity and temperature before, during, and 
 - **Time Zone:** UTC-4.
 
 ### Enjoy!
+
+---
+
+© 2023. All codes and images within this repository have been created by me. All rights reserved.
