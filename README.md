@@ -1,16 +1,20 @@
 <img src="MEDIA/PATCH.png" width="200">
 
-# Annular Solar Eclipse 2023
+# 🟢 Eclipse Solar Anular 2023
 
-I conducted measurements of light intensity and temperature before, during, and after a solar eclipse, meticulously documenting the associated timeframes. These data unveil the effects of eclipses on Earth's luminosity and temperature.
+En este proyecto, mi objetivo fue estudiar cómo varían la luz y la temperatura durante un eclipse solar anular. Este fenómeno ocurre cuando la Luna se interpone entre el Sol y la Tierra, proyectando su sombra parcial sobre nuestro planeta. Para ello, utilicé un sensor de temperatura para medir la temperatura ambiente, una pantalla LCD para visualizar los datos, y un microcontrolador que actuó como el cerebro de los componentes.
 
-## Data Overview
+## Ensamblaje del circuito
+- Observé el eclipse solar anular desde diferentes ángulos y distancias hasta su finalización.
+- También seguí transmisiones en vivo de la NASA y otras fuentes.
 
-- **Light Intensity:** Measurements were taken on a scale from 0 to 1023.
-- **Temperature:** Recorded in Celsius.
-- **Time Zone:** UTC-4.
+## Resultados
+Los resultados que obtuve fueron los siguientes: 
+- La intensidad de la luz disminuyó drásticamente durante el eclipse solar anular, llegando a niveles casi oscuros en algunos puntos. 
+- La temperatura también descendió considerablemente durante el eclipse solar anular, alcanzando valores inferiores a cero grados centígrados en algunas áreas. 
+- La pantalla LCD mostró los valores de luz y temperatura en tiempo real durante todo el eclipse solar anular, lo que permitió visualizar las variaciones que se produjeron. 
 
-### Enjoy!
+Elaboré un documento de Excel con estos datos, que contiene gráficos e imágenes que ilustran las diferencias en la luz y la temperatura antes, durante y después del eclipse solar anular.
 
 ---
 
