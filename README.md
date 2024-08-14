@@ -1,6 +1,6 @@
-<img src="MEDIA/PATCH.png" width="200">
+<img src="MEDIA/PATCH.png" width="300">
 
-# 🟢 Eclipse Solar Anular 2023
+# Annular Solar Eclipse 2023
 
 En este proyecto, me propuse investigar las variaciones en la luz y la temperatura durante un eclipse solar anular. Este fenómeno se produce cuando la Luna se interpone entre el Sol y la Tierra, proyectando su sombra parcial sobre nuestro planeta. Para lograr esto, utilicé un sensor de temperatura para medir la temperatura ambiente, una pantalla LCD para visualizar los datos, y un microcontrolador que actuó como el cerebro de los componentes.
 
@@ -13,7 +13,7 @@ Los resultados que obtuve son los siguientes:
 - La temperatura también descendió, lo cual fue más notable, ya que no se sentía el calor del sol, sino solo la luz visible.
 - La pantalla LCD mostró los valores de luz y temperatura en tiempo real durante todo el eclipse solar anular, lo que permitió visualizar las variaciones que se produjeron.
 
-Elaboré un documento de Excel con estos datos, que contiene gráficos e imágenes que ilustran las diferencias en la luz y la temperatura antes, durante y después del eclipse solar anular.
+> Elaboré un documento de Excel con estos datos.
 
 ---
 
